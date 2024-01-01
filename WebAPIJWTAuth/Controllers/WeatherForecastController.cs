@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using WebAPIJWTAuth;
 
-namespace WebAPIJWTAuth.Controllers
+namespace WebApiJwtAuth.Controllers
 {
     [ApiController]
     [Route("[controller]")]
